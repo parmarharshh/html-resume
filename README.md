@@ -5,7 +5,7 @@ A semantic, single-page resume website built entirely using **pure HTML5**. This
 ![Project Screenshot](./harsh_assignment.png)
 
 ## 🔗 Live Demo
-[**View Live Project Here**]()
+[**View Live Project Here**](https://html-resume-harshparmar.vercel.app/)
 
 ## 📝 Project Description
 This project replicates a specific resume layout using only HTML elements. The goal was to master document structure using semantic tags, tables for tabular data, and lists for enumeration.
