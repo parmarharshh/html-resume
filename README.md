@@ -2,7 +2,7 @@
 
 A semantic, single-page resume website built entirely using **pure HTML5**. This project focuses on structure, data organization, and correct tag usage without relying on CSS for styling.
 
-![Project Screenshot](./images/harsh_assignment.png)
+![Project Screenshot](./harsh_assignment.png)
 
 ## 🔗 Live Demo
 [**View Live Project Here**]()
